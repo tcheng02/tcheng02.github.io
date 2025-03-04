@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Gang Chen"
-description              : "A Phd. Candidate"
-repository               : "tcheng02/tcheng02.github.io"
+description              : #""
+repository               : #"tcheng02/tcheng02.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
