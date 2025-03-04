@@ -23,7 +23,7 @@ Please refer to my CV for more details about me.
 
 
 # 💬 Coauthors
-- *Shuaiyong Xiao*, &nbsp; Associate Professor, School of Management, Tongji University.
+- *Shuaiyong Xiao*, Associate Professor, School of Management, Tongji University.
 - *Tan Cheng*, PhD Student, School of Management, Fudan University.
 - *Xulei Jin*, PhD Student, School of Management, Fudan University.
 - *Yinan Gao*, PhD Student, School of Management, Fudan University.
