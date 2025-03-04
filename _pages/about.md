@@ -31,5 +31,4 @@ Please refer to my CV for more details about me.
 - *Renzhi Gao*, PhD Student, School of Management, Zhejiang University.
 - *Zicong Wang*, PhD Student, School of Management, Tongji University.
 - *Jianxiong Wang*, PhD Student, School of Management, Xi’an Jiaotong University.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tcheng02&amp;show_icons=true&amp;theme=default)
 
