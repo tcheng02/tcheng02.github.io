@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gang Chen"
-  bio              : 
+  bio              : "Assistant Professor"
   location         : 
-  employer         :
+  employer         :"School of Management, Fudan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fOP3-UEAAAAJ&h"
   email            : "gangchen_@fudan.edu.cn"
